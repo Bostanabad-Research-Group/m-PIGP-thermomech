@@ -250,7 +250,7 @@ If you use this code or data, please cite:
   title   = {On the Importance of Geometric Nonlinearity and Temperature-Dependent
              Properties in Multi-Material Thermo-Mechanical Topology Optimization},
   author  = {Hosseinmardi, Shirin and Sun, Alex and Bostanabad, Ramin},
-  arXiv   = {},
+  journal = {arXiv preprint arXiv:2608.10344},
   year    = {2026},
 }
 ```

@@ -9,6 +9,7 @@
 Shirin Hosseinmardi, Alex Sun, Ramin Bostanabad<br>
 
 
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2608.10344)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.4-EE4C2C.svg)
 ![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900.svg)

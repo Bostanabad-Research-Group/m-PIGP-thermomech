@@ -247,7 +247,7 @@ the Colab upload/download cells and point `ROOT` at your results directory.
 If you use this code or data, please cite:
 
 ```bibtex
-@article{hosseinmardi2026nonlinearity,
+@article{hosseinmardi2026,
   title   = {On the Importance of Geometric Nonlinearity and Temperature-Dependent
              Properties in Multi-Material Thermo-Mechanical Topology Optimization},
   author  = {Hosseinmardi, Shirin and Sun, Xiangyu and Bostanabad, Ramin},

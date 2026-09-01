@@ -53,5 +53,6 @@ dependencies:
       - typeguard==2.13.3
       - torch-fem==0.6.2
       - torch-sla==0.2.1
+      - nvmath-python[cu12]==0.7.0
       - timm==0.6.7
       - memory-profiler
